@@ -1,6 +1,5 @@
 #![allow(unused)]
 use crate::{Solution, SolutionPair};
-use std::collections::HashMap;
 use std::fs::read_to_string;
 
 struct FoundNumber {
